@@ -1,6 +1,6 @@
 {
-  "name": "@prathyushaletznav/ngx-bootstrap-datetime-popup",
-  "version": "1.5.0",
+  "name": "@letznav/ngx-bootstrap-datetime-popup",
+  "version": "1.2.7",
   "description": "Datetime popup using ngx-bootstrap",
   "main": "./dist/index.umd.js",
   "module": "./dist/index.js",
@@ -20,10 +20,10 @@
     "ngx-bootstrap-datetime-popup",
     "typescript"
   ],
-  "author": "Darren Gillard <darren.gillard81@gmail.com>",
+  "author": "letzNav Inc. <navdev1@letznav.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/prathyushaletznav/ngx-bootstrap-datetime-popup.git"
+    "url": "git+https://github.com/prathyushaletznav/ngx-bootstrap-datetime-popup.git"
   },
   "bugs": {
     "url": "https://github.com/gillardo/ngx-bootstrap-datetime-popup/issues"
