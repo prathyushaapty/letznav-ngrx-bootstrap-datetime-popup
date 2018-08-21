@@ -8,6 +8,8 @@ import { IDatetimePopupButtonOptions } from '../../interfaces/button-options';
 
 export class DatetimePopupComponent implements OnChanges {
 
+  public mstep: number = 1;
+
   @Input()
   public value: Date;
 

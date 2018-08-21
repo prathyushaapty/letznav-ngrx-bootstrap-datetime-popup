@@ -10,6 +10,7 @@
                   [maxDate]="maxDate"
                   [dateDisabled]="dateDisabled"></datepicker>
       <timepicker *ngIf="showTime"
+                  [minuteStep]="mstep"
                   [(ngModel)]="localValue"
                   (ngModelChange)="onPickerChange()"></timepicker>
     </li>
